@@ -50,7 +50,7 @@ You can find the raw results of our study under ```Results```. Please use CodeMi
 
 ### Prompt example for IER
 <div align='center'>
-<img src="https://github.com/CodeMindReasoning/CodeReasoning/blob/main/prompt-1.png" width="25%" height="25%" />
+<img src="https://github.com/CodeMindReasoning/CodeReasoning/blob/main/prompt-1.png" width="45%" height="25%" />
   <br>
 </div>
 Below is the prompt we used for GPT-3.5. Prompts for other models have very similar structure but are paired with some different special tokens.
